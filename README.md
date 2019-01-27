@@ -1,15 +1,14 @@
 ## Deep-Segregation of Plastic (DSP): Segregation of Plastic and Non-Plastic using Deep learning
 
-You can use the [editor on GitHub](https://github.com/vinayakumarr/DSP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+### About DSP
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### Team Members
+Sreelakshmi K, Vinayakumar R, Soman KP
 
-### Markdown
+### References
+1. Sreelakshmi K, Vinayakumar R and Soman KP, Deep-Segregation of Plastic (DSP): Segregation of Plastic and Non-Plastic using Deep learning. In Big Data Recommender Systems: Recent Trends and Advances, Institution of Engineering and Technology (IET) [Book chapter - In Press]
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
+2. Sreelakshmi K, Vinayakumar R and Soman KP, Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes [Paper under submission]
 
 # Header 1
 ## Header 2
