@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Deep-Segregation of Plastic (DSP): Segregation of Plastic and Non-Plastic using Deep learning
 
 You can use the [editor on GitHub](https://github.com/vinayakumarr/DSP/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
