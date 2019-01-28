@@ -9,7 +9,6 @@ Sreelakshmi K, [R. Vinayakumar](https://vinayakumarr.github.io/) and [K. P. Soma
 
 Sreelakshmi K is a Mtech Student in the Computational Engineering & Networking, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India since July 2018. She has received Btech from Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India. Her research interests are machine learning, deep learning, signal and image processing.
 
-
 <br>
 [R. Vinayakumar](https://vinayakumarr.github.io/) is a Ph.D. student in the Computational Engineering & Networking, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India since July 2015. He has received BCA from JSS college of Arts, Commerce and Sciences, Ooty road, Mysore in 2011 and MCA from Amrita Vishwa Vidyapeetham, Mysore in 2014. He has several papers in Machine Learning applied to Cyber Security. His Ph.D. work centers on Application of Machine learning (some times Deep learning) for Cyber Security and discusses the importance of Natural language processing, Image processing and Big data analytics for Cyber Security. He has participated in several international shared tasks and organized a shared task on detecting malicious domain names (DMD 2018) as part of SSCC'18 and ICACCI'18. More details available at https://vinayakumarr.github.io/
 
