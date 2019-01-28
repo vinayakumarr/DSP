@@ -5,6 +5,9 @@
 ### Demo
 
 ### Team Members
+
+![Books published from CEN]({{"vinay1.png"}})
+
 Sreelakshmi K, [Vinayakumar R](https://vinayakumarr.github.io/), [Soman KP](https://nlp.amrita.edu/somankp/)
 
 Sreelakshmi K is a Mtech Student in the Computational Engineering & Networking, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India since July 2018. She has received Btech from Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India. Her research interests are machine learning, deep learning, signal and image processing.
