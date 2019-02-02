@@ -1,7 +1,7 @@
 ## Deep-Segregation of Plastic (DSP): Segregation of Plastic and Non-Plastic using Deep learning
 
 ### About DSP
-
+The aim of the project is to develop an wngine which uses modern artificial intelligence approach, deep learning to automatically classify the waste into plastic or non-plastic.
 ### Demo
 
 <iframe width="480" height="360" src="VID-20190122-WA0005.mp4" frameborder="0"> </iframe>
