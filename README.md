@@ -1,7 +1,8 @@
 ## Deep-Segregation of Plastic (DSP): Segregation of Plastic and Non-Plastic using Deep learning
 
 ### About DSP
-The aim of the project is to develop an wngine which uses modern artificial intelligence approach, deep learning to automatically classify the waste into plastic or non-plastic.
+The aim of the project is to develop an engine which uses modern artificial intelligence approach, deep learning and computer vision to automatically classify the waste into plastic or non-plastic. This is just a proof-of-concept model. We have evaluate the performance of deep learning approaches such as CNN and CapsNEt on both the publically avilable and real-time data sets.
+
 ### Demo
 
 <iframe width="480" height="360" src="VID-20190122-WA0005.mp4" frameborder="0"> </iframe>
@@ -22,6 +23,6 @@ Akarsh S is a Mtech Student in the Computational Engineering & Networking, Amrit
 
 2. Sreelakshmi K, Akarsh S and Soman KP, Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes [Paper under submission]
 
-### Support or Contact
+### Support or Contact: The data set and code is publically avilable for further research
 
 ammaslakshmy[At]gmail.com for the complete code, data set and its experiments
