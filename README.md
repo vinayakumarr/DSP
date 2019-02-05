@@ -8,7 +8,7 @@ The aim of the project is to develop an engine which uses modern artificial inte
 <iframe width="480" height="360" src="VID-20190122-WA0005.mp4" frameborder="0"> </iframe>
 
 ### Team Members
-Sreelakshmi K, Akarsh S and K. P. Soman
+Sreelakshmi K, Akarsh S, Vinayakumar R and K. P. Soman
 
 Sreelakshmi K is a Mtech Student in the Computational Engineering & Networking, Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India since July 2018. She has received Btech from Amrita School of Engineering, Coimbatore, Amrita Vishwa Vidyapeetham, India. Her research interests are machine learning, deep learning, signal and image processing.
 
