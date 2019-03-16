@@ -25,7 +25,19 @@ Akarsh S is a Mtech Student in the Computational Engineering & Networking, Amrit
 
 Hello All, I am Sreelakshmi, happy to share that I have presented my paper titled "Capsule Neural Networks and Visualization for Segregation of Plastic andNon-Plastic Wastes" in ICACCS conference held at Sri Eshwar College of Engineering, Coimbatore. Thanks to all my coauthors: Akarsh S, Vinayakumar R and Soman KP.
 
-![image-title-here](/img/IMG-20190316-WA0000.jpg){:class="img-responsive"}
+![image-title-here](/img/IMG-20190316-WA0000.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0001.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0002.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0003.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0004.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0005.jpg){:class="img-responsive"}<br/>
+
+![image-title-here](/img/IMG-20190316-WA0006.jpg){:class="img-responsive"}<br/>
 
 ### Support or Contact: The data set and code is publically avilable for further research
 
